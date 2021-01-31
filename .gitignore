@@ -9,3 +9,6 @@ dataset
 *.txt
 *.zip
 *-ubyte
+*.v2
+*.pb
+*.profile-empty
