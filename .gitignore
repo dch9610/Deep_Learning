@@ -1,6 +1,11 @@
 .DS_Store
+*-checkpoint.ipynb
 
 # 데이터
+dataset
 *.pt
 *.gz
+*.png
+*.txt
+*.zip
 *-ubyte
